@@ -51,7 +51,7 @@
 
 
 ### Name: SANTHI.P
-### Register Number: 25004254
+### Register Number: 212225040377
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
